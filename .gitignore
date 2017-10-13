@@ -1,0 +1,4 @@
+.idea
+kid/settings/__init__.py
+*.pyc
+__pycache__
